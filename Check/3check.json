@@ -1,4 +1,4 @@
 {
-  "checkName":"CheckGitStatus",
-  "parameters":["home/tutorial/proj"]
+  "checkName":"CheckLastCommand",
+  "parameters":["gitStatus"]
 }

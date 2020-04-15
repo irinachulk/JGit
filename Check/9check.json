@@ -1,4 +1,4 @@
 {
-  "checkName":"CheckGitBranch",
-  "parameters":[""]
+  "checkName":"CheckLastCommand",
+  "parameters":["git"]
 }

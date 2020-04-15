@@ -1,4 +1,5 @@
 {
-  "checkName":"CheckGitlog",
-  "parameters":["home/tutorial/proj","hello.java"]
+  "checkName":"CheckLastCommand",
+  "parameters":["gitLog"]
 }
+

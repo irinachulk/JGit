@@ -1,4 +1,4 @@
 {
   "checkName":"CheckGitRepository",
-  "parameters":["home/tutorial/proj"]
+  "parameters":["/tmp_git"]
 }
