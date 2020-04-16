@@ -1,4 +1,4 @@
 {
   "checkName":"CheckGitAdd",
-  "parameters":["/tmp_git/Hello.txt","Hello.txt"]
+  "parameters":["/tmp_git","Hello.txt"]
 }
