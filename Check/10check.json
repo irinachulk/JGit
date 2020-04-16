@@ -1,4 +1,4 @@
 {
     "checkName":"CheckLastCommand",
-    "parameters":["gitBranch"]
+    "parameters":["git -C tmp_git merge my_branch"]
 }

@@ -1,5 +1,5 @@
 {
   "checkName":"CheckLastCommand",
-  "parameters":["gitLog"]
+  "parameters":["git -C tmp_git log"]
 }
 

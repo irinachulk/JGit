@@ -1,4 +1,4 @@
 {
   "checkName":"CheckLastCommand",
-  "parameters":["gitShow"]
+  "parameters":["git -C tmp_git show"]
 }
