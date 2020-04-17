@@ -1,1 +1,1 @@
-{"instr":"# **_Step 6_**\n## Git Log\n\nLearning command:\n```bash\ngit -C <directory> log\n```\n allows you to view the repository history and commit log.\n\n\n\n# The task\nview storage history"}
+{"instr":"# **_Step 6_**\n## Git Log\n\nLearning command:\n* ``git -C <directory> log`` allows you to view the repository history and commit log.\n\n\n# The task\nview storage history"}
